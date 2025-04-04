@@ -13,10 +13,10 @@ class Address:
 
 
 data = []
-# with open(addresses_api_path, 'r') as f:
-# 	for l in f.readlines():
-#		ip, colo = l.strip().split('#')
-#		data.append(Address(ip, colo))
+with open(addresses_api_path, 'r') as f:
+ 	for l in f.readlines():
+		ip, colo = l.strip().split('#')
+		data.append(Address(ip, colo))
 
 
 # api
