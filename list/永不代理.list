@@ -9,6 +9,7 @@ IP-CIDR,224.0.0.0/4
 IP-CIDR6,::1/128
 IP-CIDR6,fc00::/7
 IP-CIDR6,fe80::/10
+PROCESS-NAME,MiniAirways
 DOMAIN-SUFFIX,asusrouter.com
 DOMAIN-SUFFIX,fireflycloud.net.cn
 DOMAIN-SUFFIX,wgetcloud.org
