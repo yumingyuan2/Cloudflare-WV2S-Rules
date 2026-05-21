@@ -11,7 +11,12 @@
 172.64.95.175#Default
 172.67.120.84#Default
 172.67.122.48#Default
+172.67.148.38#Default
+172.67.156.190#Default
+172.67.157.148#Default
 172.67.183.34#Default
 172.67.252.134#Default
+172.67.66.238#Default
+172.67.71.5#Default
 172.67.89.69#Default
 198.41.223.150#Default
