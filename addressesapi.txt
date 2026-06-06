@@ -39,14 +39,17 @@
 198.41.208.108#Default
 198.41.209.106#Default
 198.41.209.186#Default
+198.41.211.129#Default
 198.41.211.182#Default
 198.41.211.230#Default
 198.41.211.231#Default
 198.41.211.78#Default
 198.41.211.83#Default
+198.41.211.93#Default
 198.41.222.115#Default
 198.41.222.239#Default
 198.41.222.246#Default
+198.41.223.157#Default
 198.41.223.169#Default
 198.41.223.250#Default
 198.41.223.88#Default
