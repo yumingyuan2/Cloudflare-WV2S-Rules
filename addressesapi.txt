@@ -8,6 +8,7 @@
 104.18.7.151#Default
 104.18.70.111#Default
 104.19.112.101#Default
+104.19.70.151#Default
 104.19.98.177#Default
 198.41.208.186#Default
 198.41.209.10#Default
