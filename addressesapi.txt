@@ -24,6 +24,8 @@
 104.18.156.217#Default
 104.18.162.232#Default
 104.18.75.64#Default
+104.18.88.0#Default
+104.18.95.46#Default
 104.19.170.136#Default
 104.19.199.128#Default
 104.19.27.5#Default
