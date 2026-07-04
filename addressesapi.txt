@@ -18,6 +18,7 @@
 104.17.237.230#Default
 104.17.32.149#Default
 104.17.58.248#Default
+104.17.69.151#Default
 104.17.70.42#Default
 104.17.71.137#Default
 104.17.72.56#Default
