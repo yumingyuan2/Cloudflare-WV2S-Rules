@@ -3,7 +3,10 @@
 104.16.150.119#Default
 104.16.156.33#Default
 104.16.29.62#Default
+104.16.7.245#Default
+104.16.99.177#Default
 104.17.117.34#Default
+104.17.119.29#Default
 104.17.141.166#Default
 104.17.155.161#Default
 104.17.231.219#Default
@@ -45,8 +48,10 @@
 162.159.244.8#Default
 162.159.248.48#Default
 162.159.36.106#Default
+162.159.36.47#Default
 162.159.46.149#Default
 172.67.141.89#Default
+172.67.208.71#Default
 173.245.49.205#Default
 198.41.208.163#Default
 198.41.208.46#Default
