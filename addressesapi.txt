@@ -6,8 +6,10 @@
 104.16.236.234#Default
 104.16.83.7#Default
 104.16.86.66#Default
+104.16.92.155#Default
 104.17.133.84#Default
 104.17.141.168#Default
+104.17.254.69#Default
 104.17.6.6#Default
 104.17.7.36#Default
 104.17.72.232#Default
