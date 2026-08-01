@@ -1,10 +1,13 @@
 104.17.130.195#Default
 104.17.144.149#Default
+104.17.174.225#Default
 104.17.198.7#Default
 104.17.212.191#Default
 104.17.89.201#Default
+104.19.218.87#Default
 198.41.208.218#Default
 198.41.209.110#Default
+198.41.209.132#Default
 198.41.209.137#Default
 198.41.209.252#Default
 198.41.209.89#Default
