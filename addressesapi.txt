@@ -39,10 +39,12 @@
 172.67.65.19#Default
 172.67.96.151#Default
 198.41.208.111#Default
+198.41.208.159#Default
 198.41.208.17#Default
 198.41.208.229#Default
 198.41.208.5#Default
 198.41.208.72#Default
+198.41.209.101#Default
 198.41.209.119#Default
 198.41.209.135#Default
 198.41.209.148#Default
