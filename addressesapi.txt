@@ -5,6 +5,7 @@
 104.16.242.148#Default
 104.16.8.122#Default
 104.16.85.148#Default
+104.16.96.142#Default
 104.17.174.70#Default
 104.17.57.72#Default
 104.17.80.221#Default
