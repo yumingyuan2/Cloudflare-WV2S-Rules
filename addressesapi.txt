@@ -2,6 +2,7 @@
 104.16.137.204#Default
 104.16.150.221#Default
 104.16.228.49#Default
+104.16.3.236#Default
 104.16.69.57#Default
 104.16.83.94#Default
 104.16.90.210#Default
@@ -12,6 +13,7 @@
 104.17.182.138#Default
 104.17.219.192#Default
 104.17.239.164#Default
+104.17.245.138#Default
 104.17.41.140#Default
 104.17.7.232#Default
 104.17.76.98#Default
