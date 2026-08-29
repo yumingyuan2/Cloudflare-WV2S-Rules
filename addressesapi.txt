@@ -1,11 +1,16 @@
+104.16.14.30#Default
 104.16.151.103#Default
 104.16.196.156#Default
+104.16.26.191#Default
 104.16.88.71#Default
 104.17.105.231#Default
+104.17.246.229#Default
 104.18.232.178#Default
 104.19.178.127#Default
 104.19.213.132#Default
 104.19.6.179#Default
+104.19.62.6#Default
+172.64.83.110#Default
 198.41.208.101#Default
 198.41.208.112#Default
 198.41.208.14#Default
