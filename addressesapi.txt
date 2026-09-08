@@ -3,11 +3,14 @@
 104.16.101.149#Default
 104.16.120.53#Default
 104.16.129.231#Default
+104.16.146.70#Default
+104.16.177.29#Default
 104.16.186.13#Default
 104.16.222.204#Default
 104.16.228.180#Default
 104.16.249.5#Default
 104.16.254.39#Default
+104.16.28.9#Default
 104.16.31.195#Default
 104.16.65.195#Default
 104.17.103.127#Default
@@ -22,6 +25,7 @@
 104.17.6.73#Default
 104.17.6.90#Default
 104.17.7.208#Default
+104.17.81.181#Default
 104.17.85.42#Default
 104.18.0.236#Default
 104.18.105.253#Default
@@ -49,6 +53,7 @@
 162.159.36.31#Default
 162.159.36.66#Default
 172.64.85.14#Default
+172.64.88.19#Default
 198.41.208.221#Default
 198.41.208.247#Default
 198.41.208.249#Default
